@@ -13,6 +13,8 @@ My master's thesis, titled "Three-dimensional mapping of an unknown environment 
 ## 3D Models
 This repository contains a collection of 3D models, which consists of a mechanism that connects the LiDAR sensor to the stepper motor's shaft, ensuring stability and minimizing vibration during operation. The design ensures that the sensor remains aligned with the motor shaft, preventing any displacement in measurement when the stepper motor rotates.
 
+<img src="Contornos/PlataformaLidarRayTracing1.png" alt="LiDAR Platform" width="100px">
+
 Some third-party parts were used to assemble the system, such as the stepper motor and screws.
 
 ## How to Use
